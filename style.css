@@ -1,0 +1,30 @@
+body{
+    text-align:center ;
+    background:linear-gradient(rgb(243, 243, 132),rgb(255, 151, 151))
+}
+.Family img{
+    width:50%;
+border: 8px ridge brown;
+border-radius: 10px;
+}
+#photos img{
+    width:75%;
+    border: 8px ridge brown;
+    border-radius: 10px;
+    height:800px;
+}
+.movie_head{
+    font-size: 20px;
+    padding:6px 22px ;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: gold;}
+
+.movie_text img{
+    width:100%;
+}
